@@ -1,0 +1,22 @@
+/*Colors
+#7fa7b8 ligth blue
+#f7efed white
+#f1485b red contrast
+#33546d dark blue
+*/
+
+.book{
+    background: #f7efed;
+    margin: 15px;
+    color: #33546d;
+    width: 200px;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px;
+    
+}
+
+.book img{
+    width: 100%;
+}
